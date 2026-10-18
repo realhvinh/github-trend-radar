@@ -1,0 +1,309 @@
+[
+  {
+    "schema_version": 1,
+    "week_id": "2026-10-11",
+    "window": "2026-10-11 → 2026-10-17",
+    "collected_at": "2026-10-18T04:26:44.520693+00:00",
+    "basis": "github-api-completed-calendar-week",
+    "candidate_count": 70,
+    "history_api_success_count": 70,
+    "ranked_candidate_count": 70,
+    "methodology": "Discovery via GitHub Trending (global + languages); sample ranking. Not a guaranteed worldwide exhaustive top ten.",
+    "repos": [
+      {
+        "name": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "trending_week_stars": 239923,
+        "candidate_sources": [
+          "trending:global",
+          "trending:typescript"
+        ],
+        "weekly_stars": 231030,
+        "history_week_start": "2026-10-11",
+        "rank": 1,
+        "total_stars": 309842,
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "decompiler",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "rea",
+          "reverse-engineering",
+          "static-analysis",
+          "touhou"
+        ],
+        "created_at": "2026-04-14T00:51:32Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "trending_week_stars": 18479,
+        "candidate_sources": [
+          "trending:global",
+          "trending:rust"
+        ],
+        "weekly_stars": 16803,
+        "history_week_start": "2026-10-11",
+        "rank": 2,
+        "total_stars": 31908,
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "created_at": "2022-03-31T23:19:12Z",
+        "category": "Developer Tools"
+      },
+      {
+        "name": "debpalash/VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "trending_week_stars": 15911,
+        "candidate_sources": [
+          "trending:python"
+        ],
+        "weekly_stars": 16162,
+        "history_week_start": "2026-10-11",
+        "rank": 3,
+        "total_stars": 73649,
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "created_at": "2026-04-09T21:40:26Z",
+        "category": "Developer Tools"
+      },
+      {
+        "name": "boykopovar/AnyPS5",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "trending_week_stars": 16250,
+        "candidate_sources": [
+          "trending:global",
+          "trending:c++"
+        ],
+        "weekly_stars": 14512,
+        "history_week_start": "2026-10-11",
+        "rank": 4,
+        "total_stars": 41960,
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "created_at": "2026-08-03T21:30:25Z",
+        "category": "Other"
+      },
+      {
+        "name": "mattpocock/skills",
+        "url": "https://github.com/mattpocock/skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "trending_week_stars": 11272,
+        "candidate_sources": [
+          "trending:global"
+        ],
+        "weekly_stars": 10641,
+        "history_week_start": "2026-10-11",
+        "rank": 5,
+        "total_stars": 295249,
+        "topics": [],
+        "created_at": "2026-02-03T11:15:53Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "trending_week_stars": 8382,
+        "candidate_sources": [
+          "trending:global"
+        ],
+        "weekly_stars": 7991,
+        "history_week_start": "2026-10-11",
+        "rank": 6,
+        "total_stars": 57118,
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "created_at": "2026-04-16T18:01:16Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "trending_week_stars": 7608,
+        "candidate_sources": [
+          "trending:global"
+        ],
+        "weekly_stars": 7546,
+        "history_week_start": "2026-10-11",
+        "rank": 7,
+        "total_stars": 90360,
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "created_at": "2019-03-01T03:27:48Z",
+        "category": "Security"
+      },
+      {
+        "name": "ifixai-ai/iFixAi",
+        "url": "https://github.com/ifixai-ai/iFixAi",
+        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+        "language": "Python",
+        "trending_week_stars": 6895,
+        "candidate_sources": [
+          "trending:python"
+        ],
+        "weekly_stars": 5857,
+        "history_week_start": "2026-10-11",
+        "rank": 8,
+        "total_stars": 29163,
+        "topics": [
+          "agent-evaluation",
+          "ai",
+          "ai-alignment",
+          "ai-evaluation",
+          "ai-governance",
+          "ai-safety",
+          "cli",
+          "diagnostic-tool",
+          "eu-ai-act",
+          "hallucination-detection",
+          "iso-42001",
+          "llm-evaluation",
+          "llm-security",
+          "nist-ai-rmf",
+          "owasp-llm",
+          "prompt-injection",
+          "python",
+          "responsible-ai",
+          "risk-assessment",
+          "risk-management"
+        ],
+        "created_at": "2026-04-27T13:02:34Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "trending_week_stars": 5639,
+        "candidate_sources": [
+          "trending:global",
+          "trending:typescript"
+        ],
+        "weekly_stars": 5725,
+        "history_week_start": "2026-10-11",
+        "rank": 9,
+        "total_stars": 66082,
+        "topics": [
+          "ai",
+          "animation",
+          "ffmpeg",
+          "framework",
+          "gsap",
+          "html",
+          "mcp",
+          "puppeteer",
+          "rendering",
+          "typescript",
+          "video"
+        ],
+        "created_at": "2026-03-10T01:51:06Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "vxcontrol/pentagi",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "trending_week_stars": 5538,
+        "candidate_sources": [
+          "trending:go"
+        ],
+        "weekly_stars": 5578,
+        "history_week_start": "2026-10-11",
+        "rank": 10,
+        "total_stars": 30935,
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "anthropic",
+          "autonomous-agents",
+          "golang",
+          "gpt",
+          "graphql",
+          "multi-agent-system",
+          "offensive-security",
+          "open-source",
+          "openai",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "react",
+          "security-automation",
+          "security-testing",
+          "security-tools",
+          "self-hosted"
+        ],
+        "created_at": "2025-01-06T22:22:48Z",
+        "category": "AI & Agents"
+      }
+    ]
+  }
+]
