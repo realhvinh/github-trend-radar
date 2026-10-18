@@ -1,0 +1,7 @@
+{
+  "languages": ["python", "typescript", "rust", "go", "javascript", "c++"],
+  "max_candidates": 85,
+  "top_n": 10,
+  "min_stars": 1,
+  "request_timeout_seconds": 20
+}
