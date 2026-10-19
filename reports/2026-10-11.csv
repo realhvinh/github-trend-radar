@@ -1,11 +1,11 @@
 rank,repo,weekly_stars,total_stars,language,category,url,description
-1,morluto/rea,231030,309842,TypeScript,AI & Agents,https://github.com/morluto/rea,"Reverse engineer anything with agents, from app behavior down to native binaries."
-2,storytold/artcraft,16803,31908,Rust,Developer Tools,https://github.com/storytold/artcraft,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
-3,debpalash/VoiceStudio,16162,73649,Python,Developer Tools,https://github.com/debpalash/VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
-4,boykopovar/AnyPS5,14512,41960,C++,Other,https://github.com/boykopovar/AnyPS5,Tool for automatic PS5 executables porting to Linux and Windows
-5,mattpocock/skills,10641,295249,Shell,AI & Agents,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .agents directory.
-6,cathrynlavery/diagram-design,7991,57118,HTML,AI & Agents,https://github.com/cathrynlavery/diagram-design,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
-7,NationalSecurityAgency/ghidra,7546,90360,Java,Security,https://github.com/NationalSecurityAgency/ghidra,Ghidra is a software reverse engineering (SRE) framework
-8,ifixai-ai/iFixAi,5857,29163,Python,AI & Agents,https://github.com/ifixai-ai/iFixAi,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
-9,heygen-com/hyperframes,5725,66082,TypeScript,AI & Agents,https://github.com/heygen-com/hyperframes,Write HTML. Render video. Built for agents.
-10,vxcontrol/pentagi,5578,30935,Go,AI & Agents,https://github.com/vxcontrol/pentagi,Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+1,morluto/rea,232645,325502,TypeScript,AI & Agents,https://github.com/morluto/rea,"Reverse engineer anything with agents, from app behavior down to native binaries."
+2,storytold/artcraft,16904,32954,Rust,Developer Tools,https://github.com/storytold/artcraft,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+3,debpalash/VoiceStudio,16315,75942,Python,Developer Tools,https://github.com/debpalash/VoiceStudio,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+4,boykopovar/AnyPS5,14654,43409,C++,Other,https://github.com/boykopovar/AnyPS5,Tool for automatic PS5 executables porting to Linux and Windows
+5,cathrynlavery/diagram-design,8062,57874,HTML,AI & Agents,https://github.com/cathrynlavery/diagram-design,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+6,NationalSecurityAgency/ghidra,7600,91054,Java,Security,https://github.com/NationalSecurityAgency/ghidra,Ghidra is a software reverse engineering (SRE) framework
+7,ifixai-ai/iFixAi,5877,29669,Python,AI & Agents,https://github.com/ifixai-ai/iFixAi,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds."
+8,heygen-com/hyperframes,5797,66925,TypeScript,AI & Agents,https://github.com/heygen-com/hyperframes,Write HTML. Render video. Built for agents.
+9,vxcontrol/pentagi,5604,31172,Go,AI & Agents,https://github.com/vxcontrol/pentagi,Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+10,MadsLorentzen/ai-job-search,5155,53996,Python,AI & Agents,https://github.com/MadsLorentzen/ai-job-search,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
