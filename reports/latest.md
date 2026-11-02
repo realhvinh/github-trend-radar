@@ -1,47 +1,47 @@
 # GitHub Trend Radar — Top 10
 
-**Window:** 2026-10-18 → 2026-10-24  
+**Window:** 2026-10-25 → 2026-10-31  
 **Metric:** github-api-completed-calendar-week  
 **Discovery candidates:** 85  
 **Scope:** Top of discovered repos; not a global census.
 
 | # | Repository | Weekly stars | Language | Category |
 |---:|---|---:|---|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +14,510 | JavaScript | AI & Agents |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +11,698 | Python | Developer Tools |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca) | +9,647 | TypeScript | AI & Agents |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +9,521 | JavaScript | AI & Agents |
-| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | +7,585 | Rust | AI & Agents |
-| 6 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +6,849 | Python | AI & Agents |
-| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +5,876 | TypeScript | AI & Agents |
-| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | +5,566 | TypeScript | AI & Agents |
-| 9 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | +4,720 | Python | AI & Agents |
-| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | +4,479 | TypeScript | AI & Agents |
+| 1 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +12,075 | Rust | AI & Agents |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | +11,738 | CSS | AI & Agents |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +10,621 | Python | AI & Agents |
+| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | +10,473 | JavaScript | AI & Agents |
+| 5 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | +9,426 | JavaScript | Other |
+| 6 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | +6,535 | JavaScript | AI & Agents |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +6,265 | JavaScript | AI & Agents |
+| 8 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | +6,244 | TypeScript | Other |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | +5,817 | Shell | AI & Agents |
+| 10 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | +5,752 | TypeScript | AI & Agents |
 
 ## What these repositories do
 
-**1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+**1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
-**2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+**2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
-**3. [stablyai/orca](https://github.com/stablyai/orca)** — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+**3. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 
-**4. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+**4. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-**5. [xerj-org/xerj](https://github.com/xerj-org/xerj)** — Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
+**5. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)** — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
-**6. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+**6. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 
-**7. [anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent.
+**7. [affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-**8. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+**8. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)** — No description provided.
 
-**9. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+**9. [obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 
-**10. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+**10. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
 ## Category signals
 
-AI & Agents: 9, Developer Tools: 1
+AI & Agents: 8, Other: 2
 
 > Data is a discovered candidate sample. Stars measure attention, not quality.

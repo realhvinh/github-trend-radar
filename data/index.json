@@ -1,6 +1,272 @@
 [
   {
     "schema_version": 1,
+    "week_id": "2026-10-25",
+    "window": "2026-10-25 → 2026-10-31",
+    "collected_at": "2026-11-02T06:57:17.619554+00:00",
+    "basis": "github-api-completed-calendar-week",
+    "candidate_count": 85,
+    "history_api_success_count": 85,
+    "ranked_candidate_count": 85,
+    "methodology": "Discovery via GitHub Trending (global + languages); sample ranking. Not a guaranteed worldwide exhaustive top ten.",
+    "repos": [
+      {
+        "name": "pbakaus/impeccable",
+        "url": "https://github.com/pbakaus/impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "trending_week_stars": 12017,
+        "candidate_sources": [
+          "trending:global",
+          "trending:rust"
+        ],
+        "weekly_stars": 12075,
+        "history_week_start": "2026-10-25",
+        "rank": 1,
+        "total_stars": 99682,
+        "topics": [
+          "agent-skills",
+          "ai",
+          "anti-slop",
+          "design",
+          "slop"
+        ],
+        "created_at": "2025-11-16T01:52:04Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "Nutlope/hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "trending_week_stars": 11566,
+        "candidate_sources": [
+          "trending:global"
+        ],
+        "weekly_stars": 11738,
+        "history_week_start": "2026-10-25",
+        "rank": 2,
+        "total_stars": 45195,
+        "topics": [],
+        "created_at": "2026-04-27T20:47:10Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "HKUDS/DeepTutor",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "language": "Python",
+        "trending_week_stars": 10982,
+        "candidate_sources": [
+          "trending:python"
+        ],
+        "weekly_stars": 10621,
+        "history_week_start": "2026-10-25",
+        "rank": 3,
+        "total_stars": 53904,
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "learning",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "created_at": "2025-12-28T15:35:54Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "trending_week_stars": 10069,
+        "candidate_sources": [
+          "trending:global",
+          "trending:javascript"
+        ],
+        "weekly_stars": 10473,
+        "history_week_start": "2026-10-25",
+        "rank": 4,
+        "total_stars": 56635,
+        "topics": [],
+        "created_at": "2026-06-18T14:08:44Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "hmjz100/LinkSwift",
+        "url": "https://github.com/hmjz100/LinkSwift",
+        "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+        "language": "JavaScript",
+        "trending_week_stars": 9518,
+        "candidate_sources": [
+          "trending:javascript"
+        ],
+        "weekly_stars": 9426,
+        "history_week_start": "2026-10-25",
+        "rank": 5,
+        "total_stars": 37283,
+        "topics": [
+          "123pan",
+          "aliyun-drive",
+          "aliyunpan",
+          "aria2",
+          "baidu",
+          "baidu-netdisk",
+          "baidunetdisk",
+          "baidupan",
+          "baiduyun",
+          "guangya-netdisk",
+          "motrix",
+          "quark-netdisk",
+          "tampermonkey",
+          "tampermonkey-script",
+          "tampermonkey-userscript",
+          "tianyi-netdisk",
+          "uc-netdisk",
+          "userscript",
+          "xunlei-netdisk",
+          "yidong-netdisk"
+        ],
+        "created_at": "2022-08-10T11:59:44Z",
+        "category": "Other"
+      },
+      {
+        "name": "YuJunZhiXue/dsh-purge",
+        "url": "https://github.com/YuJunZhiXue/dsh-purge",
+        "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+        "language": "JavaScript",
+        "trending_week_stars": 6644,
+        "candidate_sources": [
+          "trending:global",
+          "trending:javascript"
+        ],
+        "weekly_stars": 6535,
+        "history_week_start": "2026-10-25",
+        "rank": 6,
+        "total_stars": 15674,
+        "topics": [
+          "deepseek",
+          "deepseek-harness",
+          "dsh-plugin",
+          "dsh-plugins",
+          "harness-jailbreak",
+          "jailbreak",
+          "llm-jailbreak"
+        ],
+        "created_at": "2026-08-19T07:41:12Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "affaan-m/ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "trending_week_stars": 6299,
+        "candidate_sources": [
+          "trending:global",
+          "trending:javascript"
+        ],
+        "weekly_stars": 6265,
+        "history_week_start": "2026-10-25",
+        "rank": 7,
+        "total_stars": 294969,
+        "topics": [
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "llm",
+          "mcp",
+          "productivity"
+        ],
+        "created_at": "2026-01-18T00:51:51Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "pingdotgg/t3code",
+        "url": "https://github.com/pingdotgg/t3code",
+        "description": "",
+        "language": "TypeScript",
+        "trending_week_stars": 6926,
+        "candidate_sources": [
+          "trending:global",
+          "trending:typescript"
+        ],
+        "weekly_stars": 6244,
+        "history_week_start": "2026-10-25",
+        "rank": 8,
+        "total_stars": 38779,
+        "topics": [],
+        "created_at": "2026-02-08T23:46:22Z",
+        "category": "Other"
+      },
+      {
+        "name": "obra/superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "trending_week_stars": 5896,
+        "candidate_sources": [
+          "trending:global"
+        ],
+        "weekly_stars": 5817,
+        "history_week_start": "2026-10-25",
+        "rank": 9,
+        "total_stars": 310787,
+        "topics": [
+          "ai",
+          "brainstorming",
+          "coding",
+          "obra",
+          "sdlc",
+          "skills",
+          "subagent-driven-development",
+          "superpowers"
+        ],
+        "created_at": "2025-10-09T19:45:18Z",
+        "category": "AI & Agents"
+      },
+      {
+        "name": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "trending_week_stars": 5760,
+        "candidate_sources": [
+          "trending:global",
+          "trending:typescript"
+        ],
+        "weekly_stars": 5752,
+        "history_week_start": "2026-10-25",
+        "rank": 10,
+        "total_stars": 7055,
+        "topics": [
+          "agent",
+          "agent-skills",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-coding",
+          "ai-tools",
+          "pi-agent",
+          "pi-agent-extension",
+          "spec-driven",
+          "spec-driven-coding",
+          "spec-driven-development",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "created_at": "2026-07-08T07:40:43Z",
+        "category": "AI & Agents"
+      }
+    ]
+  },
+  {
+    "schema_version": 1,
     "week_id": "2026-10-18",
     "window": "2026-10-18 → 2026-10-24",
     "collected_at": "2026-10-26T05:30:59.127042+00:00",
